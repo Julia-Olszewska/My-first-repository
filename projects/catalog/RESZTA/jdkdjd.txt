@@ -1,0 +1,5 @@
+utworz funkcje przyjmujacza 3 parametry; 1. parametr to liczba całkowita ktora stanowi poczatek ciagu liczb calkowitych, 2. paramatr to liczba calkowita stanowiaca koniec ciagu, 3. parametr to liczba do pominięcia.
+Zaimplementuj funkcje w taki sposob aby zwrocila sume ciagu lczb calkowitych od 1. argumentu do 2.argumentu z pominieciem liczy przekazanej w 3 argumencie
+PRzyklad mojafunkcja(5,10,9) zwraca sume 5+6+7+8+10 (9 jest pomijane)'
+warunek kontynuacji petli (czyli kiedy wykonywac)
+petla, warunek i odpowiedni zasieg zmiennej sumujacej
